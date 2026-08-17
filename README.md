@@ -1,13 +1,12 @@
 <div align="center">
 
-  <!-- Header Typing Animation Banner -->
-  <a href="https://github.com/karishmashaik-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=650&height=70&lines=Hi%2C+I'm+Shaik+Karishma+%F0%9F%91%8B;Full+Stack+%26+MERN+Developer+%F0%9F%92%BB;AI+Enthusiast+%26+Python+Developer+%F0%9F%A4%96;Turning+Ideas+into+Scalable+Software+%E2%9C%A8" alt="Typing SVG Banner" />
-  </a>
+  <!-- 100% STATIC HEADING (No animation, fixed in place) -->
+  <h1>🚀 Hi there, I'm Shaik Karishma 👋</h1>
 
-  <p align="center">
-    <strong>Full Stack Developer</strong> • <strong>MERN Stack Specialist</strong> • <strong>AI/GenAI Enthusiast</strong> • <strong>Python Developer</strong>
-  </p>
+  <!-- SUBTLE ANIMATED DESIGNATION -->
+  <a href="https://github.com/karishmashaik-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=550&height=40&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8C%90+MERN+Stack+Developer;%F0%9F%A4%96+AI+Enthusiast;%F0%9F%90%8D+Python+Developer;%E2%9C%A8+Turning+Ideas+into+Scalable+Software" alt="Animated Designation" />
+  </a>
 
   <p align="center">
     <em>Passionate about transforming real-world ideas into practical, high-performance software solutions.</em>
@@ -151,6 +150,15 @@ passions: [Building Clean Code, Architecting Backends, Exploring GenAI]
     </tr>
   </table>
 
+</div>
+
+<!-- Snake Contribution Game Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://profile-readme-generator.com/assets/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://profile-readme-generator.com/assets/snake.svg" />
+    <img src="https://profile-readme-generator.com/assets/snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  </picture>
 </div>
 
 ---
